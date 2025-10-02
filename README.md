@@ -5,7 +5,7 @@
 | 2  | I Gede Bagus Saka Sinatrya |	5027241088  |
 
 ## Pendahuluan
-Di sini kami membuat alat iot dengan board esp32. Pada alat ini kami menggunakan dua fitur yaitu sensor ultrasonic, lampu led, dan buzzer. Sensor ultrasonic digunakan untuk mengukur jarak, jadi semakin dekat jarak yang di ukur maka lampu led dan buzzer akan menyala sedangkan jika jaraknya lebih dari 10 cm maka lampu led akan mati dan buzzer akan berhenti berbunyi.
+Di sini kami membuat alat iot dengan board esp32. Pada alat ini kami menggunakan sensor ultrasonic, lampu led, dan buzzer. Sensor ultrasonic digunakan untuk mengukur jarak, jadi semakin dekat jarak yang di ukur maka lampu led dan buzzer akan menyala sedangkan jika jaraknya lebih dari 10 cm maka lampu led akan mati dan buzzer akan berhenti berbunyi.
 ## Dokumentasi Alat
 ![Image](https://github.com/user-attachments/assets/779f6e83-cbb5-4df8-9b38-f9b873a588ce)
 
