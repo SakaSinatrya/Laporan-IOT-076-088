@@ -5,11 +5,11 @@
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 
-// ===== DETAIL KONEKSI ANDA =====
-const char* ssid = "my-ITS-WIFI";       // <--- GANTI dengan SSID WiFi Anda
-const char* password = "itssurabaya"; // <--- GANTI dengan Password WiFi Anda
+// ===== DETAIL KONEKSI  =====
+const char* ssid = "my-ITS-WIFI";       
+const char* password = "itssurabaya"; 
 
-unsigned long myChannelNumber = 3097544;         // <--- GANTI dengan Channel ID ThingSpeak Anda
+unsigned long myChannelNumber = 3097544;         // <--- GANTI dengan Channel ID ThingSpeak 
 const char* myWriteAPIKey = "7FY8A5VK7934GOXS"; // Write API Key
 
 // ===== PENGATURAN PIN =====
