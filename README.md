@@ -171,7 +171,7 @@ void loop() {
 ## Dokumentasi Video Hasil
 https://github.com/user-attachments/assets/323fba15-b239-4ca5-8c62-ed2c41d4977f
 
-## Hasli Pengukuran Thingspeak
+## Hasli Pengukuran Thinkspeak
 ![Image](https://github.com/user-attachments/assets/4f54426c-8f50-47d3-8766-09b2551aef20)
 
 
