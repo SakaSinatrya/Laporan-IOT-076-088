@@ -1,7 +1,7 @@
 ## Anggota Kelompok
 | No | Nama                       | NRP         |
 |----|----------------------------|-------------|
-| 1  | Dimas Muhammad Putra       | 5027241034  |
+| 1  | Dimas Muhammad Putra       | 5027241076  |
 | 2  | I Gede Bagus Saka Sinatrya |	5027241088  |
 
 ## Pendahuluan
